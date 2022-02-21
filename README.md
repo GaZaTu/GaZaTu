@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ehv6J](https://user-images.githubusercontent.com/17497826/155011372-e878d7c1-01cf-46c6-8c19-3f4bb4952077.png)
+![Ehv6J-1](https://user-images.githubusercontent.com/17497826/155015862-7b16c150-0ae9-45da-8f4d-be7e55d4820c.png)
