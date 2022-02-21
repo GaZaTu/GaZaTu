@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GaZaTu/GaZaTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ehv6J](https://user-images.githubusercontent.com/17497826/155011372-e878d7c1-01cf-46c6-8c19-3f4bb4952077.png)
